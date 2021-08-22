@@ -1,0 +1,10 @@
+version: 1.0
+name: TinyBlocks
+main: com.william.plugin.Main
+
+author: me
+description: Makes player invisible to all other players with the /vanish command!
+
+commands:
+  vanish:
+
